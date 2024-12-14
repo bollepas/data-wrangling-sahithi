@@ -1,5 +1,4 @@
-# data-wrangling-sahithi
-# README: Data Wrangling for Enhanced Analytics
+# Data Wrangling for Enhanced Analytics
 
 ## Project Description
 Data Wrangling for the City of Vancouver's Capital Project Budget Data
